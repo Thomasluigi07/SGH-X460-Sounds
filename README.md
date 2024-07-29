@@ -1,2 +1,2 @@
-# SGH-X460-sounds
- A collection of sounds ripped from a Samsung SGH-X460.
+# SGH-X460-Sounds
+A collection of sounds ripped from a Samsung SGH-X460.
